@@ -4,7 +4,7 @@ def get_category_slug(category):
     return category.lower().replace(' ','-')
  
 
-GITHUB_REPO_URL="https://www.github.com/ohidurbappy/ScriptKiddy/"
+GITHUB_REPO_URL="https://www.github.com/ohidurbappy/ScriptKiddy"
 
 
 fp=open('README.md','w',encoding='utf-8')
@@ -30,7 +30,10 @@ for category in categories:
             title=title.split('.')[0]
         print(title)
 
-        link_to_file=GITHUB_REPO_URL+f"{category}/"+filename
+        if os.path.isdir(os.path.join(category,filename)):
+            link_to_file=f"{GITHUB_REPO_URL}/tree/main/{category}/{filename}"
+        else:
+            link_to_file=f"{GITHUB_REPO_URL}/blob/main/{category}/{filename}"
         fp.write(f"- [{title}]({link_to_file})\n")
     fp.write("\n\n")
 
