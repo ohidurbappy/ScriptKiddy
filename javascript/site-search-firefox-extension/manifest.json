@@ -1,0 +1,18 @@
+{
+    "name": "Multi Search Engine",
+    "description" : "Type : followed by custom Suggestion or perdefined search engines to search",
+    "version": "1.0",
+    "applications": {
+      "gecko": {
+        "strict_min_version": "52.0a1"
+      }
+    },
+    "omnibox": { "keyword" : "ms" },
+    "background": {
+      "scripts": ["app.js"]
+    },
+    "permissions": [
+      "tabs"
+  ],
+    "manifest_version": 2
+  }

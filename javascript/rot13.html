@@ -1,0 +1,89 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>	
+	<meta charset="utf-8" />
+	<title>rot13</title>
+	<style type="text/css">
+		body {
+			background-color: white;
+			font-family: Sans-Serif;
+			text-align: center;
+		}
+		h1 {
+			margin-bottom: 0.1em;
+		}
+		h2 {
+			font-size: 1em;
+			font-weight: normal;
+			margin: 0 auto 5em auto;
+		}
+		.arrow {
+			font-size: 2.0em;
+			font-weight: bold;
+			margin: 0;
+		}
+		.warning {
+			background-color: orange;
+			padding: 0.4em 0.75em;
+		}
+	</style>
+	
+	<!-- rot13 implementation from http://stackoverflow.com/a/617685/987044 -->
+	<script type="text/javascript">
+		function rot(s, i) {
+			return s.replace(/[a-zA-Z]/g, function (c) {
+				return String.fromCharCode((c <= 'Z' ? 90 : 122) >= (c = c.charCodeAt(0) + i) ? c : c - 26);
+			});
+		}
+		function update() {
+			document.getElementById('output').value = rot(document.getElementById('input').value, +document.getElementById('rot').value);
+		}
+	</script>
+	
+</head>
+<body>
+
+<h1>rot13.com</h1>
+<h2><a href="https://en.wikipedia.org/wiki/ROT13">About ROT13</a></h2>
+
+<noscript><p><span class="warning"><em>Please enable JavaScript to use this page.</em></span></p></noscript>
+
+<p><textarea id="input" cols="80" rows="12" onkeyup="update()" onchange="update()" autofocus></textarea></p>
+
+<p class="arrow">↓</p>
+
+<p><select id="rot" onchange="update()">
+	<option value="1">ROT1</option>
+	<option value="2">ROT2</option>
+	<option value="3">ROT3</option>
+	<option value="4">ROT4</option>
+	<option value="5">ROT5</option>
+	<option value="6">ROT6</option>
+	<option value="7">ROT7</option>
+	<option value="8">ROT8</option>
+	<option value="9">ROT9</option>
+	<option value="10">ROT10</option>
+	<option value="11">ROT11</option>
+	<option value="12">ROT12</option>
+	<option value="13" selected>ROT13</option>
+	<option value="14">ROT14</option>
+	<option value="15">ROT15</option>
+	<option value="16">ROT16</option>
+	<option value="17">ROT17</option>
+	<option value="18">ROT18</option>
+	<option value="19">ROT19</option>
+	<option value="20">ROT20</option>
+	<option value="21">ROT21</option>
+	<option value="22">ROT22</option>
+	<option value="23">ROT23</option>
+	<option value="24">ROT24</option>
+	<option value="25">ROT25</option>
+</select></p>
+
+<p class="arrow">↓</p>
+
+<p><textarea id="output" cols="80" rows="12" readonly></textarea></p>
+
+</body>
+</html>

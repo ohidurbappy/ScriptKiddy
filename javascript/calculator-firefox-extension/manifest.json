@@ -1,0 +1,28 @@
+{
+
+    "manifest_version": 2,
+    "name": "Quick Calc",
+    "version": "1.0",
+    "applications": {
+        "gecko": {
+            "strict_min_version": "52.0a1"
+        }
+    },
+
+    "description": "Use browser search bar as a calculator.",
+
+    "icons": {
+        "48": "icons/suggestion.png"
+    },
+
+    "permissions": [
+        "tabs"
+    ],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "omnibox": {
+        "keyword": "calc"
+    }
+
+}
