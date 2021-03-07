@@ -1,0 +1,31 @@
+<html>
+<body>
+
+<script>
+window.onload = function(){getTime();} // onload window
+function getTime(){
+// Get Current Date
+var today = new Date();
+var h = today.getHours(); // Get Current Hours
+if(h>12){
+	h-=12;
+	}
+var m = today.getMinutes(); // Get Current Minutes
+var s = today.getSeconds(); // Get Current Seconds
+m = checkTime(m); // Check Minutes if less than 10 than retuen 01 - 09
+s = checkTime(s); // Check Seconds if less than 10 than retuen 01 - 09
+document.getElementById('showClock').innerHTML = h+':'+m+':'+s; // Return Into a Page
+setInterval(function(){getTime();},1000); // This Function is Realtime Execute " getTime() " After every 1 s
+}
+function checkTime(i){
+if(i<10){
+return '0'+i;
+}else{
+return i;
+}
+}
+</script>
+<!--- View Result -->
+<h1>Current Time is : <span id="showClock"></span></h1>
+</body>
+</html>
