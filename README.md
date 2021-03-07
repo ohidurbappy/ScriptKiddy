@@ -2,18 +2,18 @@
 
 ### List of Categories
 
-- [GO](#-go)
-- [PYTHON](#-python)
-- [CONFIGS](#-configs)
-- [JAVASCRIPT](#-javascript)
-- [APPSCRIPT](#-appscript)
-- [VBSCRIPT](#-vbscript)
-- [OTHERS](#-others)
-- [PHP](#-php)
-- [TXT](#-txt)
-- [BASH](#-bash)
-- [C](#-c)
-- [BATCH](#-batch)
+- [GO](#go)
+- [PYTHON](#python)
+- [CONFIGS](#configs)
+- [JAVASCRIPT](#javascript)
+- [APPSCRIPT](#appscript)
+- [VBSCRIPT](#vbscript)
+- [OTHERS](#others)
+- [PHP](#php)
+- [TXT](#txt)
+- [BASH](#bash)
+- [C](#c)
+- [BATCH](#batch)
 #### GO
 
 - [Http Server](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/go/http-server.go)
