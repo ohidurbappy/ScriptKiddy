@@ -16,7 +16,7 @@ categories=[x for x in os.listdir('.') if os.path.isdir(x) and x.startswith('.')
 fp.write("### List of Categories\n\n")
 for category in categories:
     category_slug=get_category_slug(category)
-    fp.write(f"- [{category.upper()}](#-{category_slug})\n")
+    fp.write(f"- [{category.upper()}](#{category_slug})\n")
 
 
 for category in categories:
