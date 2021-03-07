@@ -62,7 +62,12 @@
 
 #### JAVASCRIPT
 
+- [Resistor Calculator](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/javascript/resistor-calculator)
+- [Site Search Firefox Extension](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/javascript/site-search-firefox-extension)
 - [Clock](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/javascript/clock.html)
+- [Rot13](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/javascript/rot13.html)
+- [Qr Code Generator](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/javascript/qr-code-generator)
+- [Calculator Firefox Extension](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/javascript/calculator-firefox-extension)
 
 
 #### APPSCRIPT
