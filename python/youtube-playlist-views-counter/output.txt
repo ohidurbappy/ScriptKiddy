@@ -1,0 +1,13 @@
+# Playlist URL: https://www.youtube.com/playlist?list=PLTIh4N93lOTZivHW-hnlVtRuuYN1GeNGR
+
+Output:
+Video1 Designing Full Wave Rectifier using MATLAB - Bappy Tech Tips - 9 views
+Video2 Designing a Half Wave Rectifier using MATLAB - Bappy Tech Tips - 14 views
+Video3 Designing Fullwave rectifier with desired level of output using MATLAB - Bappy Tech Tips - 5 views
+
+Summary:
+Total Video : 3
+Total Views : 28
+
+
+Date: Wednesday , 25 March 2020
