@@ -1,4 +1,5 @@
 import os
+import urllib.parse
 
 def get_category_slug(category):
     return category.lower().replace(' ','-')
@@ -9,19 +10,6 @@ GITHUB_REPO_URL="https://www.github.com/ohidurbappy/ScriptKiddy"
 
 fp=open('README.md','w',encoding='utf-8')
 fp.write("# ScriptKiddy\n\n")
-
-fp.write("""
-
-   _____           _       _   _  ___     _     _       
-  / ____|         (_)     | | | |/ (_)   | |   | |      
- | (___   ___ _ __ _ _ __ | |_| ' / _  __| | __| |_   _ 
-  \___ \ / __| '__| | '_ \| __|  < | |/ _` |/ _` | | | |
-  ____) | (__| |  | | |_) | |_| . \| | (_| | (_| | |_| |
- |_____/ \___|_|  |_| .__/ \__|_|\_\_|\__,_|\__,_|\__, |
-                    | |                            __/ |
-                    |_|                           |___/ 
-
-""")
 
 categories=[x for x in os.listdir('.') if os.path.isdir(x) and x.startswith('.')==False]
 
@@ -47,6 +35,8 @@ for category in categories:
             link_to_file=f"{GITHUB_REPO_URL}/tree/main/{category}/{filename}"
         else:
             link_to_file=f"{GITHUB_REPO_URL}/blob/main/{category}/{filename}"
+        
+        link_to_file=urllib.parse.quote(link_to_file)
         fp.write(f"- [{title}]({link_to_file})\n")
     fp.write("\n\n")
 
