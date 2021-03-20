@@ -1,0 +1,3 @@
+QDarkStyle
+PyQt5
+PyGithub

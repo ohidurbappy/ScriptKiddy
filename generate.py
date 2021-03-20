@@ -10,6 +10,19 @@ GITHUB_REPO_URL="https://www.github.com/ohidurbappy/ScriptKiddy"
 fp=open('README.md','w',encoding='utf-8')
 fp.write("# ScriptKiddy\n\n")
 
+fp.write("""
+
+   _____           _       _   _  ___     _     _       
+  / ____|         (_)     | | | |/ (_)   | |   | |      
+ | (___   ___ _ __ _ _ __ | |_| ' / _  __| | __| |_   _ 
+  \___ \ / __| '__| | '_ \| __|  < | |/ _` |/ _` | | | |
+  ____) | (__| |  | | |_) | |_| . \| | (_| | (_| | |_| |
+ |_____/ \___|_|  |_| .__/ \__|_|\_\_|\__,_|\__,_|\__, |
+                    | |                            __/ |
+                    |_|                           |___/ 
+
+""")
+
 categories=[x for x in os.listdir('.') if os.path.isdir(x) and x.startswith('.')==False]
 
 # write list of categories

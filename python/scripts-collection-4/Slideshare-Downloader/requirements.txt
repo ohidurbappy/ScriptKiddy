@@ -1,0 +1,4 @@
+docopt
+img2pdf
+requests
+beautifulsoup4
