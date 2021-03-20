@@ -124,7 +124,6 @@
 
 #### PYTHON
 
-- [](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/.travis.yml)
 - [10Print](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/10print.py)
 - [Alarmclock](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/AlarmClock.py)
 - [Auto Message Sender](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/Auto-Message-Sender)
