@@ -30,13 +30,13 @@ for category in categories:
         if '.' in title:
             title=title.split('.')[0]
         print(title)
-
+        filename=urllib.parse.quote(filename)
+        
         if os.path.isdir(os.path.join(category,filename)):
             link_to_file=f"{GITHUB_REPO_URL}/tree/main/{category}/{filename}"
         else:
             link_to_file=f"{GITHUB_REPO_URL}/blob/main/{category}/{filename}"
-        
-        link_to_file=urllib.parse.quote(link_to_file)
+    
         fp.write(f"- [{title}]({link_to_file})\n")
     fp.write("\n\n")
 
