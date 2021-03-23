@@ -66,12 +66,38 @@
 
 #### BATCH
 
+- [Check Disk](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/Check%20disk.bat)
+- [Gpresult](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/Gpresult.bat)
 - [Proxy](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/Proxy.bat)
+- [System Info](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/System%20info.bat)
+- [Task List](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/Task%20list.bat)
+- [Ascii Arts](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/batch/ascii-arts)
+- [Ascii Star Wars](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/ascii-star-wars.bat)
+- [Backup Sync](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/backup-sync.bat)
+- [Batch Script Examples](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/batch/batch-script-examples)
+- [Battery Report](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/battery-report.html)
+- [Cmd Tips](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/cmd-tips.md)
 - [I ❤️ You Virus](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/i-%E2%9D%A4%EF%B8%8F-you-virus.bat)
+- [Kill A Program](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/kill-a-program.bat)
+- [Laptop Battery Health](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/laptop-battery-health.bat)
+- [List Installed Driver](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/list-installed-driver.bat)
+- [Map Local Drive As Network Drive](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/map-local-drive-as-network-drive.bat)
 - [Matrix Effect](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/matrix-effect.bat)
 - [Oracle Virus[Dangerous]](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/oracle-virus%5BDANGEROUS%5D.bat)
+- [Passwd Protected Cmd](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/passwd-protected-cmd.bat)
+- [Pc Cleanup Utility](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/pc-cleanup-utility.bat)
+- [Progressbar](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/progressbar.bat)
+- [Random Passwd Generator](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/random-passwd-generator.bat)
+- [Reset Internet Connection](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/reset-internet-connection.bat)
 - [Run Python Server](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/run-python-server.bat)
+- [See Windows License Key](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/see-windows-license-key.bat)
+- [Show Wifi Passwords](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/show-wifi-passwords.bat)
+- [Shutdown Later](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/shutdown-later.bat)
 - [Start Stop Xampp Firefox Notepad](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/start-stop-xampp-firefox-notepad.bat)
+- [System Info](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/system-info.bat)
+- [System Scan](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/system-scan.bat)
+- [Website Dos](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/website-dos.bat)
+- [Website Pinger](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/batch/website-pinger.bat)
 
 
 #### C
