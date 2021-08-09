@@ -151,6 +151,7 @@
 #### PYTHON
 
 - [10Print](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/10print.py)
+- [3X+1](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/3x%2B1.py)
 - [Alarmclock](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/AlarmClock.py)
 - [Auto Message Sender](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/Auto-Message-Sender)
 - [Automation Scripts](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/Automation-scripts)
@@ -220,6 +221,7 @@
 - [Chatterbot Chatbot](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/chatterbot-chatbot.py)
 - [Check Github Username](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/check_github_username)
 - [Check Weather](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/check_weather)
+- [Checkdomain Availability](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/checkdomain_availability.py)
 - [Cli For Showing Location](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/cli-for-showing-location)
 - [Clock](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/clock)
 - [Colorful Wallpaper Generator](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/colorful-wallpaper-generator)
@@ -248,6 +250,7 @@
 - [Exchange Rates](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/exchange_rates.py)
 - [Exif Viewer](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/exif_viewer)
 - [Face Dataset Generator](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/face-dataset-generator)
+- [Facebook Page Scraper](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/facebook-page-scraper)
 - [Facial Keypoints Detection](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/facial-keypoints-detection)
 - [File Downloader Gui](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/file-downloader-gui.py)
 - [File Transfer Using Udp Checksum](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/file_transfer_using_UDP_checksum)
