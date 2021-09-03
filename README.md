@@ -145,6 +145,7 @@
 
 #### PHP
 
+- [Fatman](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/php/fatman.php)
 - [Rss Feed To Html](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/php/rss_feed_to_html.php)
 
 
@@ -231,6 +232,7 @@
 - [Countries Trivia Game](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/countries_trivia_game)
 - [Cricbuzz Scrap](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/cricbuzz_scrap.py)
 - [Currency Converter](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/currency_converter)
+- [Cvzone Projects](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/cvzone-projects)
 - [Datetime](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/datetime.py)
 - [Discord Dictionary Bot](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/discord-dictionary-bot)
 - [Discord Math Bot](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/discord-math-bot.py)
