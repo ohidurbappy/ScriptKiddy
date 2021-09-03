@@ -387,6 +387,7 @@
 - [Vatd](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/vatd.py)
 - [Video Player](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/video_player)
 - [Video To Gif](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/video_to_gif)
+- [Virtual Camera](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/virtual-camera)
 - [Voice Input Output](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/voice%20input%20output)
 - [Wallpaper Changer](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/wallpaper-changer)
 - [Weather](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/weather.py)
