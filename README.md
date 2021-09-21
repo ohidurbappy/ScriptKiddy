@@ -323,6 +323,7 @@
 - [Pusheen](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/pusheen.py)
 - [Pushtweet](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/pushtweet.py)
 - [Python Ide](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/python-ide.py)
+- [Python Shell](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/python-shell.py)
 - [Python Virtual Filesystem](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/python-virtual-filesystem.py)
 - [Qr Code Scanner](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/qr-code-scanner)
 - [Quote](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/quote.py)
