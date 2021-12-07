@@ -59,6 +59,7 @@
 
 - [Backup Mail](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/bash/Backup_Mail.sh)
 - [Filecontentstoclipboard](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/bash/FileContentsToClipboard)
+- [Add Linus Torvald As Your Github Contributor](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/bash/add-linus-torvald-as-your-github-contributor.sh)
 - [Cloudflare Dynamic Dns Update](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/bash/cloudflare-dynamic-dns-update.sh)
 - [Git Push](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/bash/git-push.sh)
 - [Ssh Login](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/bash/ssh-login.sh)
