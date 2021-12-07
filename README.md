@@ -315,6 +315,7 @@
 - [Pdf2Text](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/pdf2text)
 - [Pdf Redaction](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/pdf_redaction)
 - [Pdf To Jpg](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/pdf_to_jpg)
+- [Phone Number Info](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/phone-number-info.py)
 - [Pillow Image Centering](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/pillow-image-centering)
 - [Ping Checker](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/ping_checker)
 - [Pinging Websites](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/pinging-websites)
