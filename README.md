@@ -104,6 +104,7 @@
 #### C
 
 - [Catch The Cat Game](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/c/CATCH%20THE%20CAT%20GAME.cpp)
+- [Bin2Hex](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/c/bin2hex.c)
 - [Delay](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/c/delay.c)
 - [Generate Map Of Bangladesh](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/c/generate-map-of-bangladesh.c)
 - [Http Server](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/c/http-server.c)
@@ -259,6 +260,7 @@
 - [File Transfer Using Udp Checksum](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/file_transfer_using_UDP_checksum)
 - [Files Deletion](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/files_deletion)
 - [Find Brokenlinks](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/find_brokenLinks)
+- [Finding Common Elements](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/finding-common-elements.py)
 - [Flipkart Price Alert](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/flipkart-price-alert)
 - [Fpdf Example](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/fpdf-example.py)
 - [Functions](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/functions)
