@@ -312,6 +312,7 @@
 - [Password Generator](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/password-generator.py)
 - [Password Validator](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/password-validator)
 - [Pc File Sorting](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/pc_file_sorting.py)
+- [Pdf To Pptx](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/pdf-to-pptx)
 - [Pdf2Text](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/pdf2text)
 - [Pdf Redaction](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/pdf_redaction)
 - [Pdf To Jpg](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/pdf_to_jpg)
