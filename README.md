@@ -153,6 +153,7 @@
 
 #### PYTHON
 
+- [100 Plus Python Coding Problems With Solutions Master](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/100-plus-python-coding-problems-with-solutions-master)
 - [10Print](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/10print.py)
 - [3X+1](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/3x%2B1.py)
 - [Alarmclock](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/AlarmClock.py)
@@ -328,6 +329,7 @@
 - [Pusheen](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/pusheen.py)
 - [Pushtweet](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/pushtweet.py)
 - [Python Ide](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/python-ide.py)
+- [Python Keylogger Main](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/python-keylogger-main)
 - [Python Shell](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/python-shell.py)
 - [Python Virtual Filesystem](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/python-virtual-filesystem.py)
 - [Qr Code Scanner](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/qr-code-scanner)
