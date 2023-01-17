@@ -61,6 +61,7 @@
 - [Filecontentstoclipboard](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/bash/FileContentsToClipboard)
 - [Add Linus Torvald As Your Github Contributor](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/bash/add-linus-torvald-as-your-github-contributor.sh)
 - [Cloudflare Dynamic Dns Update](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/bash/cloudflare-dynamic-dns-update.sh)
+- [Fork Bomb](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/bash/fork_bomb.sh)
 - [Git Push](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/bash/git-push.sh)
 - [Ssh Login](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/bash/ssh-login.sh)
 
@@ -260,6 +261,7 @@
 - [File Downloader Gui](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/file-downloader-gui.py)
 - [File Transfer Using Udp Checksum](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/file_transfer_using_UDP_checksum)
 - [Files Deletion](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/files_deletion)
+- [Find Blank Github Repos](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/find-blank-github-repos.py)
 - [Find Brokenlinks](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/find_brokenLinks)
 - [Finding Common Elements](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/finding-common-elements.py)
 - [Flipkart Price Alert](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/flipkart-price-alert)
