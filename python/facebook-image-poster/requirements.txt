@@ -1,0 +1,4 @@
+requests
+Pillow
+selenium
+PyVirtualDisplay
