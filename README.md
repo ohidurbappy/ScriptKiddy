@@ -348,6 +348,7 @@
 - [Quote](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/quote.py)
 - [Quran Mp3 Downloader](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/quran-mp3-downloader.py)
 - [Random Fact](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/random_fact)
+- [Raw Dns Query](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/raw-dns-query)
 - [Read Docs](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/read-docs.py)
 - [Red Team](https://www.github.com/ohidurbappy/ScriptKiddy/tree/main/python/red-team)
 - [Remove A Param From Url](https://www.github.com/ohidurbappy/ScriptKiddy/blob/main/python/remove-a-param-from-url.py)
